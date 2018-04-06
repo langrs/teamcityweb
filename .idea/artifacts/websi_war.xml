@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="websi:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="websi.war">
+      <element id="artifact" artifact-name="websi:war exploded" />
+    </root>
+  </artifact>
+</component>
